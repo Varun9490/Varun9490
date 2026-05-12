@@ -6,12 +6,11 @@ Software Developer | AI Security Practitioner | Security Researcher
 
 I’m a Software Developer and AI Security Practitioner with hands-on experience in full-stack development, cloud infrastructure, cybersecurity, and GenAI systems. I work with JavaScript, Python, Java, and modern frameworks like React, Next.js, Django, and Flask. My focus is on building scalable applications, secure APIs, and AI-powered systems using RAG pipelines, LangGraph workflows, and LLM security practices. I’m also a bug bounty hunter, technical blogger, and student mentor, actively contributing to cybersecurity and developer communities
 
-* 🌍  I'm based in Hyderabad
-* 🖥️  See my portfolio at [here](http://nadipena-varunkumar.vercel.app)
-* ✉️  You can contact me at [varunnadipena@gmail.com](mailto:varunnadipena@gmail.com)
-* 🧠  I'm currently learning React native
-* 👥  I'm looking to collaborate on Security Research, Full-Stack Apps, AI Security Projects, Open Source
-* 💬  Ask me about Student Mentor at Security Club AITAM | Tech Lead for Avishkaar Season 3 Hackathon | Medium Blogger | Hackathon Winner
+- 🌍 Based in **Hyderabad, India**
+- 🖥️ Portfolio: [nadipena-varunkumar.vercel.app](http://nadipena-varunkumar.vercel.app)
+- ✉️ Contact: [varunnadipena@gmail.com](mailto:varunnadipena@gmail.com)
+- 🧠 Currently learning **React Native**
+- 👥 Open to collaborate on **Security Research**, **Full-Stack Apps**, **AI Security Projects**, and **Open Source**
 
 ### Tech Stack
 
